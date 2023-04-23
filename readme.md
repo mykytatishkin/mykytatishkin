@@ -21,11 +21,11 @@
 <h2 align="center"> 🖥️ Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center"> Python, Docker, Git, Github, MS SQL, Arduino, Azure Data Base</p>
+<p align="center"> Also I can work with: Swift, Xcode, JavaScript, Python, Visual Studio Code, Azure Data Studio, GoLang, Discord.py, ADO.NET, DLL</p>
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
