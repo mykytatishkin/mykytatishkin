@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/668823462479134722/1099609754805997578/Black__Blue_Gaming_Futuristic_Youtube_Intro.gif?width=1720&height=968" alt="header"/>
+  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
