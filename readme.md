@@ -71,9 +71,5 @@
 
 <hr>
 
-<h2>My App status</h2>
-<hr>
-Tvoybrunch-miniapp : [![Netlify Status](https://api.netlify.com/api/v1/badges/c64b4a97-9492-4454-ab93-ddaced75917e/deploy-status)](https://app.netlify.com/sites/rococo-lily-4bd96e/deploys)
-
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
