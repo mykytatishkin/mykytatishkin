@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/mykytatishkin/mykytatishkin/blob/main/img/mykytatishkin.gif" alt="header"/>
+  <img src="https://cdn.discordapp.com/attachments/668823462479134722/1181560765052899358/Mykyta_TIshkin.gif?ex=65818136&is=656f0c36&hm=0050adc86cfcaebc5f762568b6fa1d1ddda4a00142768d7fd03ca53de2dbf266&" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 
@@ -69,5 +70,6 @@
 
 
 <hr>
+
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
