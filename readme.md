@@ -10,7 +10,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <strong>I`m junior developer and it`s my GitHub profile with my pet projects, I`ll be glad to get some recommendation and critics.
+  <strong>I`m a developer and it`s my GitHub profile with my pet projects, I`ll be glad to get some recommendations and critics.
   </strong>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=mykytatishkin" alt="https://github.com/mykytatishkin" />
