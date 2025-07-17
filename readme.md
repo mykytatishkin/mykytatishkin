@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/mykytatishkin/mykytatishkin/blob/main/img/mt.gif" alt="header"/>
+  <img src="https://media.discordapp.net/attachments/1356523986741235742/1390346977765490758/Banner.jpg?ex=687a6206&is=68791086&hm=9791ffa68f81022ab98f6850c177a1755bf2db9a06fdefa019f3697b447a92ee&=&format=webp&width=3296&height=1098" alt="header"/>
 </div>
 <p align="center"> <sup>(Open for Hiring)</sup></p>
 
