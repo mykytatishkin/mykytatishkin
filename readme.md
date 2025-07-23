@@ -4,10 +4,13 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1356523986741235742/1390346977765490758/Banner.jpg?ex=687a6206&is=68791086&hm=9791ffa68f81022ab98f6850c177a1755bf2db9a06fdefa019f3697b447a92ee&=&format=webp&width=3296&height=1098" alt="header"/>
+  <img src="https://media.discordapp.net/attachments/1356523986741235742/1397275954359046287/white-green-tishify.png?ex=6881cae3&is=68807963&hm=aa86680abaf309aa37a3e356cabe87073d0cce618dd8c9e1f99db7a1b41c44e4&=&format=webp&quality=lossless&width=3504&height=1168" alt="header"/>
 </div>
 <p align="center"> <sup>(Open for Hiring)</sup></p>
 
+
+
+https://discord.com/channels/1356348011239702749/1356523986741235742/1397275954635608288
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <strong>I`m a developer and it`s my GitHub profile with my pet projects, I`ll be glad to get some recommendations and critics.
