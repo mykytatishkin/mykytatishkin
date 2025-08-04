@@ -1,9 +1,9 @@
-[Profile Views](https://komarev.com/ghpvc/?username=mykytatishkin)
 # 💫 About Me:
 🔭 I’m currently working on Tishify<br>🌱 I’m currently learning Data Engineering<br>
 
 
 ## 🌐 Socials:
+![Profile Views](https://komarev.com/ghpvc/?username=mykytatishkin)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/teasera) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mykytatishkin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mykyta-tishkin) 
 
 # 💻 Tech Stack:
